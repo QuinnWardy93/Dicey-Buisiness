@@ -1,0 +1,35 @@
+.dice {
+    display: flex;
+    align-items: center;
+     justify-content: center;
+    background:white;
+    color:black;
+     width: 300px;
+     height: 300px;
+     margin: 2em;
+    border-radius: 1em;
+    border: .5em solid black
+    
+    
+    }
+
+.container {
+    margin-top: 1em;
+      display: flex;
+      flex-wrap: wrap;
+      border: .5em solid black;
+    }
+
+.btnContainer {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1em;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+     justify-content: center;
+     margin-right: 20em;
+     margin-left: 20em;
+}
